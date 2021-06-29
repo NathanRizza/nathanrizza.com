@@ -15,27 +15,6 @@ body
 	margin-bottom: 10px; 
 }
 
-/*Image Next to Text Container*/
-
-#ITcontainer
-{
-display:flex;
-align-items:center;
-}
-
-#Icontainer
-{
-flex-basis:40%;
-}
-
-#Tcontainer
-{
-padding:10%;
-flex-basis:60%;
-}
-
-/*---------------------------*/
-
 #content 
 { 
 	margin-top: 20px;
@@ -94,9 +73,9 @@ h1 /*USED*/
 
 
 h2
-{
+{	
 	padding: 15px;
-    text-align: center;
+    	text-align: center;
    	margin-top: 0px;
    	margin-bottom: 0px;
 	color: #000000; /*Black*/
@@ -106,10 +85,10 @@ p /*USED*/
 { 
 	font-size:20px;
 	font-family:Helvetica;	
-	/*vertical-align:baseline;*/
-	/*text-align: center;*/
+	vertical-align:baseline;
+	text-align: center;
 }
-
+	
 a/*USED*/
 {
 	font-size:20pt;
@@ -117,8 +96,6 @@ a/*USED*/
 	/*text-decoration:none;*/
 	padding: 10px;
 }
-
-/*------Link CSS-------*/
 
 a:link {
   color: #398085;
@@ -139,7 +116,6 @@ a:active {
   color: #aa4620;
 }
 
-/*------------------------*/
 
 .floatleft 
 { 

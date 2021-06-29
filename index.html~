@@ -35,26 +35,13 @@
 <div id="container">
 	<div id="content">
 		<div id="centerdiv">
-			<div id="ITcontainer">
-				<div id="Icontainer">
-					<img src="imgs/profilePic.jpeg"></p>
-				</div>
-				<div id="Tcontainer">
-					<p>	
-					Blah blah, the quick brown fox jumped over the lazy dog.
-					</p>
-				</div>
-			</div>
-			<div id="ITcontainer">
-				<div id="Icontainer">
-					<img src="imgs/profilePic.jpeg"></p>
-				</div>
-				<div id="Tcontainer">
-					<p>	
-					Blah blah, the quick brown fox jumped over the lazy dog.
-					</p>
-				</div>
-			</div>
+		<p>
+			<img src="imgs/profilePic.jpeg">
+			Here is some text. Blah blah, the quick brown fox jumped over the lazy dog.
+			<br>
+			<img src="imgs/profilePic.jpeg">
+			Here is some text. Hhehrfz
+		</p> 
 		</div>
 	</div>
 </div>
